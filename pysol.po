@@ -1,42 +1,28 @@
-# #-#-#-#-#  pysol-1.pot (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR ORGANIZATION
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# translation of pysol.po to French
 #
-# #-#-#-#-#  pysol-2.pot (PACKAGE VERSION)  #-#-#-#-#
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Copyright (C) 2017, Magali de Morangies <magali.demorangies@gmail.com>
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PySolFC\n"
-"POT-Creation-Date: 2017-04-14 15:06+0200\n"
-"PO-Revision-Date: 2017-04-16 14:46+0200\n"
-"Language-Team: French translation\n"
+"Project-Id-Version: fr_translation\n"
+"POT-Creation-Date: 2007-09-06 15:07:58+0200\n"
+"PO-Revision-Date: 2017-04-18 02:07+0200\n"
+"Last-Translator: Magali de Morangies <magali.demorangies@gmail.com>\n"
+"Language-Team: French <fr@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: pygettext.py 1.6con\n"
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-03-07 21:38+0300\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.1\n"
-"Last-Translator: Magali de Morangies <magali.demorangies@gmail.com>\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Generator: Poedit 2.0.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #: pysollib/actions.py:239 pysollib/tile/toolbar.py:175
 #: pysollib/tk/toolbar.py:174
 msgid "New game"
-msgstr "Aucuneuveau jeu"
+msgstr "Nouveau jeu"
 
 #: pysollib/actions.py:252 pysollib/tile/menubar.py:851
 #: pysollib/tile/menubar.py:865 pysollib/tk/menubar.py:852
