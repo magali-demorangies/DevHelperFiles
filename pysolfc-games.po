@@ -1,0 +1,4054 @@
+# translation of games.po to French
+#
+# Copyright (C) 2017, Magali de Morangies <magali.demorangies@gmail.com>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: fr_translation\n"
+"POT-Creation-Date: 2007-09-06 15:07:58+0200\n"
+"PO-Revision-Date: 2017-04-18 07:49+0200\n"
+"Last-Translator: Magali de Morangies <magali.demorangies@gmail.com>\n"
+"Language-Team: French <fr@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.6con\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid " 3x3 Matrix"
+msgstr " Matrix 3x3"
+
+msgid " 4x4 Matrix"
+msgstr " Matrix 4x4"
+
+msgid " 5x5 Matrix"
+msgstr " Matrix 5x5"
+
+msgid " 6x6 Matrix"
+msgstr " Matrix 6x6"
+
+msgid " 7x7 Matrix"
+msgstr " Matrix 7x7"
+
+msgid " 8x8 Matrix"
+msgstr " Matrix 8x8"
+
+msgid " 9x9 Matrix"
+msgstr " Matrix 9x9"
+
+msgid " Pyramid's Stones"
+msgstr " Les Pierres de la Pyramide"
+
+msgid "10 x 8"
+msgstr "10x8"
+
+msgid "10x10 Matrix"
+msgstr "Matrix 10x10"
+
+msgid "8 x 8"
+msgstr "8x8"
+
+msgid "Abacus"
+msgstr "Abacus"
+
+msgid "Accordion"
+msgstr "Accordéon"
+
+msgid "Aces High"
+msgstr "Hauts As"
+
+msgid "Aces Up"
+msgstr "As Montant"
+
+msgid "Aces Up 5"
+msgstr "As Montant 5"
+
+msgid "Achtmal Acht"
+msgstr "Huit Fois Huit Allemand"
+
+msgid "Acme"
+msgstr "Acmé"
+
+msgid "Acquaintance"
+msgstr "Relation"
+
+msgid "Adela"
+msgstr "Adèle"
+
+msgid "Aglet"
+msgstr "Aglet"
+
+msgid "Agnes Bernauer"
+msgstr "Agnès Bernauer"
+
+msgid "Agnes Sorel"
+msgstr "Agnès Sorel"
+
+msgid "Akbar's Conquest"
+msgstr "La Conquête d'Akbar"
+
+msgid "Akbar's Triumph"
+msgstr "Le Triomphe d'Akbar"
+
+msgid "Alaska"
+msgstr "Alaska"
+
+msgid "Algerian Patience"
+msgstr "Patience Algérienne"
+
+msgid "Algerian Patience (3 decks)"
+msgstr "Patience Algérienne (3 paquets)"
+
+msgid "Alhambra"
+msgstr "Alhambra"
+
+msgid "Ali Baba"
+msgstr "Ali Baba"
+
+msgid "All in a Row"
+msgstr "All in a Row"
+
+msgid "Altar"
+msgstr "Autel"
+
+msgid "Alternation"
+msgstr "Alternance"
+
+msgid "Amazons"
+msgstr "Amazones"
+
+msgid "American Canister"
+msgstr "American Canister"
+
+msgid "American Toad"
+msgstr "American Toad"
+
+msgid "Amphibian"
+msgstr "Amphibien"
+
+msgid "Anno Domini"
+msgstr "Anno Domini"
+
+msgid "Another Round"
+msgstr "Another Round"
+
+msgid "Apophis"
+msgstr "Apophis"
+
+msgid "Appachan's Waterfall"
+msgstr "Appachan's Waterfall"
+
+msgid "Applegate"
+msgstr "Applegate"
+
+msgid "Aqab's"
+msgstr "Aqab's"
+
+msgid "Arabella"
+msgstr "Arabella"
+
+msgid "Arachnida"
+msgstr "Arachnide"
+
+msgid "Arena"
+msgstr "Arena"
+
+msgid "Arena 2"
+msgstr "Arena 2"
+
+msgid "Arizona"
+msgstr "Arizona"
+
+msgid "Arrow"
+msgstr "Flèche"
+
+msgid "Art Moderne"
+msgstr "Art Moderne"
+
+msgid "Artic Garden"
+msgstr "Jardin Arctique"
+
+msgid "Ashrafi"
+msgstr "Ashrafi"
+
+msgid "Ashta Dikapala"
+msgstr "Ashta Dikpalas"
+
+msgid "Ashwapati"
+msgstr "Ashwapati"
+
+msgid "Assembly"
+msgstr "Assemblée"
+
+msgid "Athena"
+msgstr "Athena"
+
+msgid "Auld Lang Syne"
+msgstr "Ce N'Est Qu'Un Au Revoir"
+
+msgid "Aunt Mary"
+msgstr "Tante Marie"
+
+msgid "Australian Patience"
+msgstr "Patience Australienne"
+
+msgid "Baby Spiderette"
+msgstr "Spiderette Bébé"
+
+msgid "Backbone"
+msgstr "Colonne Vertébrale"
+
+msgid "Backbone +"
+msgstr "Colonne Vertébrale +"
+
+msgid "Bad Seven"
+msgstr "Bad Seven"
+
+msgid "Baker's Dozen"
+msgstr "Douzaine du Boulanger"
+
+msgid "Baker's Game"
+msgstr "Jeu du Boulanger"
+
+msgid "Balance"
+msgstr "Balance"
+
+msgid "Balarama"
+msgstr "Balarama"
+
+msgid "Banner"
+msgstr "Bannière"
+
+msgid "Baroness"
+msgstr "La Baronne"
+
+msgid "Barrier"
+msgstr "Barrière"
+
+msgid "Bastille Day"
+msgstr "La Prise de la Bastille"
+
+msgid "Bastion"
+msgstr "Bastion"
+
+msgid "Bat"
+msgstr "Chauve-Souris"
+
+msgid "Bath"
+msgstr "Bain"
+
+msgid "Batsford"
+msgstr "Batsford"
+
+msgid "Batsford Again"
+msgstr "Batsford Encore"
+
+msgid "Bavarian Patience"
+msgstr "Patience Bavaroise"
+
+msgid "Bayan"
+msgstr "Bayan"
+
+msgid "Beacon"
+msgstr "Beacon"
+
+msgid "Beak and Flipper"
+msgstr "Bec Et Palmes"
+
+msgid "Beatle"
+msgstr "Beatle"
+
+msgid "Bebop"
+msgstr "Bebop"
+
+msgid "Beetle"
+msgstr "Scarabée"
+
+msgid "Beleaguered Castle"
+msgstr "Chateau Assiégé"
+
+msgid "Belvedere"
+msgstr "Belvédère"
+
+msgid "Betsy Ross"
+msgstr "Betsy Ross"
+
+msgid "Big Ben"
+msgstr "Big Ben"
+
+msgid "Big Bertha"
+msgstr "La Grosse Bertha"
+
+msgid "Big Braid"
+msgstr "Grande Tresse"
+
+msgid "Big Cell"
+msgstr "Grand Cell"
+
+msgid "Big Courtyard"
+msgstr "Grand Courtyard"
+
+msgid "Big Deal"
+msgstr "Grand Deal"
+
+msgid "Big Divorce"
+msgstr "Grand Divorce"
+
+msgid "Big Easy"
+msgstr "Grand Easy"
+
+msgid "Big Flying Dragon"
+msgstr "Grand Dragon Volant"
+
+msgid "Big Forty"
+msgstr "Grand Quarante"
+
+msgid "Big Harp"
+msgstr "Grande Harpe"
+
+msgid "Big Hole"
+msgstr "Grand Trou"
+
+msgid "Big Mountain"
+msgstr "Grande Montagne"
+
+msgid "Big Spider"
+msgstr "Grande Araignée"
+
+msgid "Big Spider (1 suit)"
+msgstr "Grande Araignée (1 suite)"
+
+msgid "Big Spider (2 suits)"
+msgstr "Grande Araignée (2 suites)"
+
+msgid "Big Streets"
+msgstr "Grand Streets"
+
+msgid "Big Sumo"
+msgstr "Grand Sumo"
+
+msgid "Big York"
+msgstr "Grand York"
+
+msgid "Bim Bom"
+msgstr "Bim Bom"
+
+msgid "Bisley"
+msgstr "Bisley"
+
+msgid "Bits n Bytes"
+msgstr "Bits & Bytes"
+
+msgid "Bizarre"
+msgstr "Bizarre"
+
+msgid "Black Hole"
+msgstr "Trou Noir"
+
+msgid "Black Widow"
+msgstr "Veuve Noire"
+
+msgid "Blind Alleys"
+msgstr "Blind Alleys"
+
+msgid "Blind Patience"
+msgstr "Patience Aveugle"
+
+msgid "Blockade"
+msgstr "Blockade"
+
+msgid "Blondes and Brunettes"
+msgstr "Blondes Et Brunes"
+
+msgid "Blue Moon"
+msgstr "Blue Moon"
+
+msgid "Boar"
+msgstr "Boar"
+
+msgid "Board Patience"
+msgstr "Board Patience"
+
+msgid "Boat"
+msgstr "Bateau"
+
+msgid "Bonaparte"
+msgstr "Bonaparte"
+
+msgid "Boomerang"
+msgstr "Boomerang"
+
+msgid "Boost"
+msgstr "Boost"
+
+msgid "Boudoir"
+msgstr "Boudoir"
+
+msgid "Box Fan"
+msgstr "Box Fan"
+
+msgid "Box Kite"
+msgstr "Box Kite"
+
+msgid "Boxing the Compass"
+msgstr "Boxing the Compass"
+
+msgid "Braid"
+msgstr "La Tresse"
+
+msgid "Brazilian Patience"
+msgstr "Patience Brésilienne"
+
+msgid "Breakwater"
+msgstr "Brise-Lame"
+
+msgid "Bridesmaids"
+msgstr "Demoiselles d'Honneur"
+
+msgid "Bridge"
+msgstr "Bridge"
+
+msgid "Bridge 2"
+msgstr "Bridge 2"
+
+msgid "Bridget's Game"
+msgstr "Jeu de Bridget"
+
+msgid "Bridget's Game Doubled"
+msgstr "Jeu de Bridget Doublé"
+
+msgid "Brigade"
+msgstr "Brigade"
+
+msgid "Brisbane"
+msgstr "Brisbane"
+
+msgid "Bristol"
+msgstr "Bristol"
+
+msgid "British Blockade"
+msgstr "Blockade Britannique"
+
+msgid "British Canister"
+msgstr "Canister Britannique"
+
+msgid "British Constitution"
+msgstr "Constitution Britannique"
+
+msgid "British Square"
+msgstr "Square Britannique"
+
+msgid "Brunswick"
+msgstr "Brunswick"
+
+msgid "Brush"
+msgstr "Brush"
+
+msgid "Buffalo Bill"
+msgstr "Buffalo Bill"
+
+msgid "Bug"
+msgstr "Bug"
+
+msgid "Busy Aces"
+msgstr "Busy Aces"
+
+msgid "Busy Cards"
+msgstr "Busy Cards"
+
+msgid "Butterfly"
+msgstr "Papillon"
+
+msgid "Butterfly 2"
+msgstr "Papillon 2"
+
+msgid "Calculation"
+msgstr "Calculation"
+
+msgid "Camelot"
+msgstr "Camelot"
+
+msgid "Can Can"
+msgstr "Cancan"
+
+msgid "Canfield"
+msgstr "Canfield"
+
+msgid "Canfield Rush"
+msgstr "Canfield Rush"
+
+msgid "Canister"
+msgstr "Canister"
+
+msgid "Capricieuse"
+msgstr "Capricieuse"
+
+msgid "Captive Queens"
+msgstr "Reines Captives"
+
+msgid "Carlton"
+msgstr "Carlton"
+
+msgid "Carnation"
+msgstr "Carnation"
+
+msgid "Carpet"
+msgstr "Carpet"
+
+msgid "Carre Napoleon"
+msgstr "Le Napoléon Carré"
+
+msgid "Carthage"
+msgstr "Carthage"
+
+msgid "Casino Klondike"
+msgstr "Klondike de Casino"
+
+msgid "Casket"
+msgstr "Cercueil"
+
+msgid "Cassim"
+msgstr "Cassim"
+
+msgid "Castle"
+msgstr "Chateau"
+
+msgid "Castle Mount"
+msgstr "Mont du Chateau"
+
+msgid "Castle of Indolence"
+msgstr "Chateau de Nonchalance"
+
+msgid "Castles End"
+msgstr "Fin des Chateaux"
+
+msgid "Castles in Spain"
+msgstr "Chateaux en Espagne"
+
+msgid "Cat and Mouse"
+msgstr "Le Chat Et la Souris"
+
+msgid "Cat's Tail"
+msgstr "La Queue du Chat"
+
+msgid "Catherine the Great"
+msgstr "La Grande Catherine"
+
+msgid "Cavalier"
+msgstr "Cavalier"
+
+msgid "Cell 11"
+msgstr "Cellule 11"
+
+msgid "Ceremonial"
+msgstr "Cérémonial"
+
+msgid "Challenge FreeCell"
+msgstr "FreeCell Défi"
+
+msgid "Chamberlain"
+msgstr "Chamberlain"
+
+msgid "Chameleon"
+msgstr "Caméléon"
+
+msgid "Checkered"
+msgstr "Checkered"
+
+msgid "Chelicera"
+msgstr "Chélicères"
+
+msgid "Cheops"
+msgstr "Cheops"
+
+msgid "Chequers"
+msgstr "Chequers"
+
+msgid "Cherry Bomb"
+msgstr "Bombe Cerise"
+
+msgid "ChessMania"
+msgstr "Échecs-Mania"
+
+msgid "Chessboard"
+msgstr "Jeu d'Échecs"
+
+msgid "Chinaman"
+msgstr "ChinaMan"
+
+msgid "Chinese Discipline"
+msgstr "Discipline Chinoise"
+
+msgid "Chinese Klondike"
+msgstr "Klondike Chinois"
+
+msgid "Chinese Solitaire"
+msgstr "Solitaire Chinois"
+
+msgid "Chinese Spider"
+msgstr "Araignée Chinoise"
+
+msgid "Chip"
+msgstr "Chip"
+
+msgid "Choice"
+msgstr "Choice"
+
+msgid "Cicely"
+msgstr "Cicely"
+
+msgid "Circle Eight"
+msgstr "Cercle Huit"
+
+msgid "Circle Nine"
+msgstr "Cercle Neuf"
+
+msgid "Citadel"
+msgstr "Citadelle"
+
+msgid "Clink"
+msgstr "Clink"
+
+msgid "Clock"
+msgstr "Clock"
+
+msgid "Clover Leaf"
+msgstr "Clover Leaf"
+
+msgid "Cluitjar's Lair"
+msgstr "L'Antre de Cluitjar"
+
+msgid "Cockroach"
+msgstr "Cafard"
+
+msgid "Colonel"
+msgstr "Colonel"
+
+msgid "Colorado"
+msgstr "Colorado"
+
+msgid "Columns"
+msgstr "Colonnes"
+
+msgid "Concentration"
+msgstr "Concentration"
+
+msgid "Cone"
+msgstr "Cône"
+
+msgid "Congress"
+msgstr "Congrès"
+
+msgid "Constitution"
+msgstr "Constitution"
+
+msgid "Contradance"
+msgstr "Contredanse"
+
+msgid "Convolution"
+msgstr "Convolution"
+
+msgid "Corkscrew"
+msgstr "Tire-Bouchon"
+
+msgid "Corner Card"
+msgstr "Corner Card"
+
+msgid "Corner Suite"
+msgstr "Corner Suite"
+
+msgid "Corners"
+msgstr "Corners"
+
+msgid "Corona"
+msgstr "Corona"
+
+msgid "Cotillion"
+msgstr "Cotillon"
+
+msgid "Courtyard"
+msgstr "Courtyard"
+
+msgid "Cover"
+msgstr "Cover"
+
+msgid "Crescent"
+msgstr "Croissant"
+
+msgid "Cringle"
+msgstr "Cringle"
+
+msgid "Cross"
+msgstr "Cross"
+
+msgid "Crossroads"
+msgstr "Crossroads"
+
+msgid "Crown"
+msgstr "Crown"
+
+msgid "Cruel"
+msgstr "Cruel"
+
+msgid "Cupido's Heart"
+msgstr "Le Cœur de Cupidon"
+
+msgid "Cupola"
+msgstr "Cupola"
+
+msgid "Curds and Whey"
+msgstr "Curds and Whey"
+
+msgid "Czarina"
+msgstr "La Tsarine"
+
+msgid "Danda"
+msgstr "Danda"
+
+msgid "Dashavatara"
+msgstr "Dashavatara"
+
+msgid "Dashavatara Circles"
+msgstr "Cercles Dashavatara"
+
+msgid "Dead King Golf"
+msgstr "Golf du Roi Mort"
+
+msgid "Deck"
+msgstr "Paquet"
+
+msgid "Deep"
+msgstr "Deep"
+
+msgid "Deep Well"
+msgstr "Deep Well"
+
+msgid "Delivery"
+msgstr "Delivery"
+
+msgid "Demon"
+msgstr "Démon"
+
+msgid "Demon Fan"
+msgstr "Démon Fan"
+
+msgid "Der Katzenschwanz"
+msgstr "La Queue du Chat Allemande"
+
+msgid "Der Zopf"
+msgstr "La Tresse Allemande"
+
+msgid "Der freie Napoleon"
+msgstr "Le Napoléon Libre Allemand"
+
+msgid "Der kleine Napoleon"
+msgstr "Le Petit Napoléon Allemand"
+
+msgid "Der lange Zopf"
+msgstr "La Longue Tresse Allemande"
+
+msgid "Der letzte Monarch"
+msgstr "Le Dernier Monarque Allemand"
+
+msgid "Desert Island"
+msgstr "Île Déserte"
+
+msgid "Deuces"
+msgstr "Deuces"
+
+msgid "Devil's Solitaire"
+msgstr "Devil's Solitaire"
+
+msgid "Dhanpati"
+msgstr "Dhanpati"
+
+msgid "Dial"
+msgstr "Dial"
+
+msgid "Diamond"
+msgstr "Diamant"
+
+msgid "Diamond Mine"
+msgstr "Mine de Diamant"
+
+msgid "Die Bildgallerie"
+msgstr "Die Bildgallerie"
+
+msgid "Die Koenigsbergerin"
+msgstr "Die Koenigsbergerin"
+
+msgid "Die Russische"
+msgstr "Die Russische"
+
+msgid "Die Schlange"
+msgstr "Die Schlange"
+
+msgid "Die boese Sieben"
+msgstr "Die boese Sieben"
+
+msgid "Die kleine Harfe"
+msgstr "Die kleine Harfe"
+
+msgid "Dieppe"
+msgstr "Dieppe"
+
+msgid "Diplomat"
+msgstr "Diplomate"
+
+msgid "Dog"
+msgstr "Chien"
+
+msgid "Dojouji's Game"
+msgstr "Jeu de Dojouji"
+
+msgid "Dojouji's Game Doubled"
+msgstr "Jeu de Dojouji Doublé"
+
+msgid "Dolphin"
+msgstr "Dauphin"
+
+msgid "Doorway"
+msgstr "Doorway"
+
+msgid "Double Acquaintance"
+msgstr "Relation Doublé"
+
+msgid "Double Bisley"
+msgstr "Bisley Doublé"
+
+msgid "Double Blue Moon"
+msgstr "Blue Moon Doublé"
+
+msgid "Double Canfield"
+msgstr "Canfield Doublé"
+
+msgid "Double Cockroach"
+msgstr "Cafard Doublé"
+
+msgid "Double Dolphin"
+msgstr "Dauphin Doublé"
+
+msgid "Double Dot"
+msgstr "Double Dot"
+
+msgid "Double Drawbridge"
+msgstr "Drawbridge Doublé"
+
+msgid "Double Easthaven"
+msgstr "Easthaven Doublé"
+
+msgid "Double Fives"
+msgstr "Les Cinq Doublé"
+
+msgid "Double Footling"
+msgstr "Footling Doublé"
+
+msgid "Double FreeCell"
+msgstr "FreeCell Doublé"
+
+msgid "Double Gold Mine"
+msgstr "Mine d'Or Doublé"
+
+msgid "Double Grasshopper"
+msgstr "Grasshopper Doublé"
+
+msgid "Double Kingsley"
+msgstr "Kingsley Doublé"
+
+msgid "Double Klondike"
+msgstr "Klondike Doublé"
+
+msgid "Double Klondike by Threes"
+msgstr "Klondike par Trois Doublé"
+
+msgid "Double Line"
+msgstr "Double Line"
+
+msgid "Double Mahjongg Big Castle"
+msgstr "Mahjongg Grand Château Doublé"
+
+msgid "Double Mahjongg Big Flying Dragon"
+msgstr "Mahjongg Grand Dragon Volant Doublé"
+
+msgid "Double Mahjongg Eight Squares"
+msgstr "Mahjongg Huit Carrés Doublé"
+
+msgid "Double Mahjongg Faro"
+msgstr "Mahjongg Faro Doublé"
+
+msgid "Double Mahjongg Roost"
+msgstr "Mahjongg Roost Doublé"
+
+msgid "Double Mahjongg Sphere"
+msgstr "Mahjongg Sphère Doublé"
+
+msgid "Double Mahjongg Twin Picks"
+msgstr "Mahjongg Twin Picks Doublé"
+
+msgid "Double Mahjongg Two Squares"
+msgstr "Mahjongg Deux Carrés Doublé"
+
+msgid "Double Measure"
+msgstr "Mesure Double"
+
+msgid "Double Montana"
+msgstr "Montana Doublé"
+
+msgid "Double Pyramid"
+msgstr "Pyramide Double"
+
+msgid "Double Rail"
+msgstr "Rail Doublé"
+
+msgid "Double Red Moon"
+msgstr "Red Moon Doublé"
+
+msgid "Double Russian Solitaire"
+msgstr "Solitaire Russe Doublé"
+
+msgid "Double Russian Spider"
+msgstr "Araignée Russe Doublée"
+
+msgid "Double Samuri"
+msgstr "Samuri Doublé"
+
+msgid "Double Scorpion"
+msgstr "Scorpion Doublé"
+
+msgid "Double Your Fun"
+msgstr "Double Your Fun"
+
+msgid "Double Yukon"
+msgstr "Yukon Double"
+
+msgid "Double or Quits"
+msgstr "Quitte ou Double"
+
+msgid "Doublets"
+msgstr "Doublets"
+
+msgid "Doublets II"
+msgstr "Doublets II"
+
+msgid "Dover"
+msgstr "Dover"
+
+msgid "Dragon"
+msgstr "Dragon"
+
+msgid "Dragon 2"
+msgstr "Dragon 2"
+
+msgid "Drawbridge"
+msgstr "Drawbridge"
+
+msgid "Dress Parade"
+msgstr "Dress Parade"
+
+msgid "Drivel"
+msgstr "Drivel"
+
+msgid "Duchess"
+msgstr "Duchesse"
+
+msgid "Dude"
+msgstr "Dude"
+
+msgid "Duke"
+msgstr "Duke"
+
+msgid "Dumfries"
+msgstr "Dumfries"
+
+msgid "Dutch Solitaire"
+msgstr "Solitaire Hollandais"
+
+msgid "Dutchess"
+msgstr "Dutchess"
+
+msgid "Eagle Wing"
+msgstr "Eagle Wing"
+
+msgid "Eastcliff"
+msgstr "Eastcliff"
+
+msgid "Easthaven"
+msgstr "Easthaven"
+
+msgid "Easy Supreme"
+msgstr "Easy Suprême"
+
+msgid "Easy x One"
+msgstr "Easy x One"
+
+msgid "Eclipse"
+msgstr "Éclipse"
+
+msgid "Egyptian Solitaire"
+msgstr "Solitaire Égyptien"
+
+msgid "Eiffel Tower"
+msgstr "Tour Eiffel"
+
+msgid "Eight Legions"
+msgstr "Huit Légions"
+
+msgid "Eight Off"
+msgstr "Eight Off"
+
+msgid "Eight Packs"
+msgstr "Huit Paquets"
+
+msgid "Eight Sages"
+msgstr "Huit Sages"
+
+msgid "Eight Squares"
+msgstr "Huit Carrés"
+
+msgid "Eight Times Eight"
+msgstr "Huit Fois Huit"
+
+msgid "Eight by Eight"
+msgstr "Huit Fois Huit"
+
+msgid "Elba"
+msgstr "Elba"
+
+msgid "Elevator"
+msgstr "Ascenseur"
+
+msgid "Elevens"
+msgstr "Onzaines"
+
+msgid "Elevens Too"
+msgstr "Onzaines Aussi"
+
+msgid "Emperor"
+msgstr "Empereur"
+
+msgid "Empty Pyramids"
+msgstr "Pyramides Vides"
+
+msgid "Enterprise"
+msgstr "Entreprise"
+
+msgid "Escalator"
+msgstr "Escalator"
+
+msgid "Eternal Triangle"
+msgstr "Triangle Éternel"
+
+msgid "Eularia"
+msgstr "Eularia"
+
+msgid "Excuse"
+msgstr "Excuse"
+
+msgid "Exiled Kings"
+msgstr "Rois Exilés"
+
+msgid "Exit"
+msgstr "Exit"
+
+msgid "Express"
+msgstr "Express"
+
+msgid "Eye"
+msgstr "Œil"
+
+msgid "F-15 Eagle"
+msgstr "F-15 Aigle"
+
+msgid "Faerie Queen"
+msgstr "Faerie Queen"
+
+msgid "Fair Lucy"
+msgstr "Fair Lucy"
+
+msgid "Fairest"
+msgstr "Fairest"
+
+msgid "Falling Star"
+msgstr "Falling Star"
+
+msgid "Famous Fifty"
+msgstr "Les Fameux Cinquante"
+
+msgid "Fan"
+msgstr "Fan"
+
+msgid "Fanny"
+msgstr "Fanny"
+
+msgid "Farandole"
+msgstr "Farandole"
+
+msgid "Farmer's Wife"
+msgstr "La Femme du Fermier"
+
+msgid "Faro"
+msgstr "Faro"
+
+msgid "Fascination Fan"
+msgstr "Fascination Fan"
+
+msgid "Fastness"
+msgstr "Fastness"
+
+msgid "Fatimeh's Game"
+msgstr "Jeu de Fatima"
+
+msgid "Fatimeh's Game Relaxed"
+msgstr "Jeu de Fatima Relax"
+
+msgid "Fechter's Game"
+msgstr "Jeu de Fechter"
+
+msgid "Fifteen"
+msgstr "Quinze"
+
+msgid "Fifteen Puzzle"
+msgstr "Quinze Puzzle"
+
+msgid "Fifteen plus"
+msgstr "Quinze Plus"
+
+msgid "Fifteens"
+msgstr "Quinzaines"
+
+msgid "Final Battle"
+msgstr "Bataille Finale"
+
+msgid "Firecracker"
+msgstr "Firecracker"
+
+msgid "Firing Squad"
+msgstr "Firing Squad"
+
+msgid "First Law"
+msgstr "Première Loi"
+
+msgid "Fish"
+msgstr "Poisson"
+
+msgid "Fish face"
+msgstr "Face de Poisson"
+
+msgid "Five Aces"
+msgstr "Cinq As"
+
+msgid "Five Piles"
+msgstr "Cinq Piles"
+
+msgid "Five Pyramids"
+msgstr "Cinq Pyramides"
+
+msgid "Flake"
+msgstr "Flake"
+
+msgid "Flake (2 decks)"
+msgstr "Flake (2 paquets)"
+
+msgid "Flamenco"
+msgstr "Flamenco"
+
+msgid "Flipper"
+msgstr "Flipper"
+
+msgid "Floating City"
+msgstr "Cité Flottante"
+
+msgid "Floradora"
+msgstr "Floradora"
+
+msgid "Florentine Patience"
+msgstr "Patience Florentine"
+
+msgid "Flourish"
+msgstr "Flourish"
+
+msgid "Flower Arrangement"
+msgstr "Flower Arrangement"
+
+msgid "Flower Clock"
+msgstr "Flower Clock"
+
+msgid "Flower Garden"
+msgstr "Jardin de Fleurs"
+
+msgid "Flowers"
+msgstr "Fleurs"
+
+msgid "Fly"
+msgstr "Fly"
+
+msgid "Flying Dragon"
+msgstr "Dragon Volant"
+
+msgid "Foothold"
+msgstr "Foothold"
+
+msgid "Footling"
+msgstr "Footling"
+
+msgid "ForeCell"
+msgstr "ForeCell"
+
+msgid "Forest Glade"
+msgstr "Forest Glade"
+
+msgid "Formic"
+msgstr "Formic"
+
+msgid "Fort"
+msgstr "Fort"
+
+msgid "Fortress"
+msgstr "Fortress"
+
+msgid "Fortress Towers"
+msgstr "Fortress Towers"
+
+msgid "Fortune's Favor"
+msgstr "Fortune's Favor"
+
+msgid "Fortunes"
+msgstr "Fortunes"
+
+msgid "Forty Nine"
+msgstr "Quarante neuf"
+
+msgid "Forty Thieves"
+msgstr "Les Quarante Voleurs"
+
+msgid "Forty and Eight"
+msgstr "Quarante et Huit"
+
+msgid "Four Colours"
+msgstr "Quatre Couleurs"
+
+msgid "Four Kings"
+msgstr "Quatre Rois"
+
+msgid "Four Leaf Clovers"
+msgstr "Trèfle à Quatre Feuilles"
+
+msgid "Four Packs"
+msgstr "Quatre Paquets"
+
+msgid "Four Seasons"
+msgstr "Quatre Saisons"
+
+msgid "Four Stacks"
+msgstr "Four Stacks"
+
+msgid "Four Winds"
+msgstr "Quatre Vents"
+
+msgid "Four by Four"
+msgstr "Quatre par Quatre"
+
+msgid "Foursome"
+msgstr "Foursome"
+
+msgid "Fourteen"
+msgstr "Quatorze"
+
+msgid "Frames"
+msgstr "Frames"
+
+msgid "Fred's Spider"
+msgstr "L'Araignée de Fred"
+
+msgid "Fred's Spider (3 decks)"
+msgstr "L'Araignée de Fred (3 paquets)"
+
+msgid "Free Fan"
+msgstr "Free Fan"
+
+msgid "Free Napoleon"
+msgstr "Free Napoléon"
+
+msgid "FreeCell"
+msgstr "FreeCell"
+
+msgid "Frog"
+msgstr "Frog"
+
+msgid "Full Vision"
+msgstr "Full Vision"
+
+msgid "Full Vision 2"
+msgstr "Full Vision 2"
+
+msgid "Future"
+msgstr "Future"
+
+msgid "Gajapati"
+msgstr "Gajapati"
+
+msgid "Gaji"
+msgstr "Gaji"
+
+msgid "Galary"
+msgstr "Galary"
+
+msgid "Galloway"
+msgstr "Galloway"
+
+msgid "Gaps"
+msgstr "Gaps"
+
+msgid "Garden"
+msgstr "Jardin"
+
+msgid "Gargantua"
+msgstr "Gargantua"
+
+msgid "Garhpati"
+msgstr "Garhpati"
+
+msgid "Gate"
+msgstr "Gate"
+
+msgid "Gayle's"
+msgstr "Gayle's"
+
+msgid "General's Patience"
+msgstr "Patience du Général"
+
+msgid "Genesis"
+msgstr "Genesis"
+
+msgid "Genesis +"
+msgstr "Genesis +"
+
+msgid "Geoffrey"
+msgstr "Geoffrey"
+
+msgid "German FreeCell"
+msgstr "FreeCell Allemand"
+
+msgid "German Patience"
+msgstr "Patience Allemande"
+
+msgid "Ghulam"
+msgstr "Ghulam"
+
+msgid "Giant"
+msgstr "Giant"
+
+msgid "Giza"
+msgstr "Giza"
+
+msgid "Glacier"
+msgstr "Glacier"
+
+msgid "Glade"
+msgstr "Glade"
+
+msgid "Glencoe"
+msgstr "Glencoe"
+
+msgid "Glenwood"
+msgstr "Glenwood"
+
+msgid "Gloaming"
+msgstr "Gloaming"
+
+msgid "Gloria"
+msgstr "Gloria"
+
+msgid "Gnat"
+msgstr "Gnat"
+
+msgid "Gold Mine"
+msgstr "Mine d'Or"
+
+msgid "Gold Rush"
+msgstr "Gold Rush"
+
+msgid "Golf"
+msgstr "Golf"
+
+msgid "Good Measure"
+msgstr "Good Measure"
+
+msgid "Gotham"
+msgstr "Gotham"
+
+msgid "Grampus"
+msgstr "Grampus"
+
+msgid "Granada"
+msgstr "Granada"
+
+msgid "Grand Duchess"
+msgstr "La Grande Duchesse"
+
+msgid "Grand Duchess +"
+msgstr "La Grande Duchesse +"
+
+msgid "Grandee"
+msgstr "Grandee"
+
+msgid "Grandfather"
+msgstr "Grandfather"
+
+msgid "Grandfather's Clock"
+msgstr "Grandfather's Clock"
+
+msgid "Grandmamma's Patience"
+msgstr "Patience de Grand-Maman"
+
+msgid "Grandmother's Game"
+msgstr "Jeu de Grand-Mère"
+
+msgid "Grant's Reinforcement"
+msgstr "Les Renforts de Grant"
+
+msgid "Grasshopper"
+msgstr "Grasshopper"
+
+msgid "Great Wall"
+msgstr "La Grande Muraille"
+
+msgid "Great Wheel"
+msgstr "La Grande Roue"
+
+msgid "Greater Queue"
+msgstr "La Plus Grande Queue"
+
+msgid "Griffon"
+msgstr "Griffon"
+
+msgid "Grounds for a Divorce"
+msgstr "Motif de Divorce"
+
+msgid "Gypsy"
+msgstr "Gitan"
+
+msgid "H for Haga"
+msgstr "H pour Haga"
+
+msgid "Half Mahjongg Happy New Year"
+msgstr "Demi Mahjongg Happy New Year"
+
+msgid "Half Mahjongg Smile"
+msgstr "Demi Mahjongg Smile"
+
+msgid "Half Mahjongg Wall"
+msgstr "Demi Mahjongg Muraille"
+
+msgid "Hanafuda Four Seasons"
+msgstr "Hanafuda Quatre Saisons"
+
+msgid "Hanafuda Four Winds"
+msgstr "Hanafuda Quatre Vents"
+
+msgid "Hanoi Puzzle 4"
+msgstr "Puzzle Hanoi 4"
+
+msgid "Hanoi Puzzle 5"
+msgstr "Puzzle Hanoi 5"
+
+msgid "Hanoi Puzzle 6"
+msgstr "Puzzle Hanoi 6"
+
+msgid "Hanoi Sequence"
+msgstr "Séquence Hanoi"
+
+msgid "Happy New Year"
+msgstr "Happy New Year"
+
+msgid "Hare"
+msgstr "Hare"
+
+msgid "Harvestman"
+msgstr "Harvestman"
+
+msgid "Hawaiian"
+msgstr "Hawaiien"
+
+msgid "Hayagriva"
+msgstr "Hayagriva"
+
+msgid "Haystack"
+msgstr "Haystack"
+
+msgid "Headquarters"
+msgstr "Headquarters"
+
+msgid "Heads and Tails"
+msgstr "Heads and Tails"
+
+msgid "Helios"
+msgstr "Hélios"
+
+msgid "Hemispheres"
+msgstr "Hémisphères"
+
+msgid "Hex A Klon"
+msgstr "Hex A Klon"
+
+msgid "Hex A Klon by Threes"
+msgstr "Hex A Klon par Trois"
+
+msgid "Hex Labyrinth"
+msgstr "Hex Labyrinthe"
+
+msgid "Hidden Passages"
+msgstr "Passages Cachés"
+
+msgid "Hidden Words"
+msgstr "Mots Cachés"
+
+msgid "High and Low"
+msgstr "High and Low"
+
+msgid "Hiranyaksha"
+msgstr "Hiranyaksha"
+
+msgid "Hopscotch"
+msgstr "Hopscotch"
+
+msgid "Horse"
+msgstr "Cheval"
+
+msgid "Hospital Patience"
+msgstr "Patience d'Hôpital"
+
+msgid "House in the Wood"
+msgstr ""
+
+msgid "House on the Hill"
+msgstr ""
+
+msgid "Hovercraft"
+msgstr ""
+
+msgid "How They Run"
+msgstr ""
+
+msgid "Hurdles"
+msgstr ""
+
+msgid "Hurricane"
+msgstr ""
+
+msgid "Hypotenuse"
+msgstr ""
+
+msgid "Idiot's Delight"
+msgstr ""
+
+msgid "Idle Aces"
+msgstr ""
+
+msgid "Idle Year"
+msgstr ""
+
+msgid "IloveU"
+msgstr ""
+
+msgid "Imperial Guards"
+msgstr ""
+
+msgid "Imperial Trumps"
+msgstr ""
+
+msgid "Inazuma"
+msgstr ""
+
+msgid "Inca"
+msgstr ""
+
+msgid "Incompatibility"
+msgstr ""
+
+msgid "Indefatigable"
+msgstr ""
+
+msgid "Indian"
+msgstr ""
+
+msgid "Indian Patience"
+msgstr ""
+
+msgid "Inner Circle"
+msgstr ""
+
+msgid "Inquisitor"
+msgstr ""
+
+msgid "Intelligence"
+msgstr ""
+
+msgid "Intelligence +"
+msgstr ""
+
+msgid "Interchange"
+msgstr ""
+
+msgid "Interment"
+msgstr ""
+
+msgid "Interregnum"
+msgstr ""
+
+msgid "Intrigue"
+msgstr ""
+
+msgid "Iris"
+msgstr "Iris"
+
+msgid "Irmgard"
+msgstr ""
+
+msgid "JPs"
+msgstr ""
+
+msgid "Jamestown"
+msgstr ""
+
+msgid "Jane"
+msgstr ""
+
+msgid "Japan"
+msgstr "Japon"
+
+msgid "Japanese Garden"
+msgstr "Jardin Japonais"
+
+msgid "Japanese Garden II"
+msgstr "Jardin Japonais II"
+
+msgid "Japanese Garden III"
+msgstr "Jardin Japonais III"
+
+msgid "Joker"
+msgstr "Joker"
+
+msgid "Josephine"
+msgstr "Joséphine"
+
+msgid "Journey to Cuddapah"
+msgstr "Voyage à Cuddapah"
+
+msgid "Jumbo"
+msgstr "Jumbo"
+
+msgid "Junction"
+msgstr "Jonction"
+
+msgid "Jungle"
+msgstr "Jungle"
+
+msgid "Just For Fun"
+msgstr "Just For Fun"
+
+msgid "K for Kyodai"
+msgstr "K pour Kyodai"
+
+msgid "Kali's Game"
+msgstr "Jeu de Kali"
+
+msgid "Kali's Game Doubled"
+msgstr "Jeu de Kali Doublé"
+
+msgid "Kali's Game Relaxed"
+msgstr "Jeu de Kali Relax"
+
+msgid "Kansas"
+msgstr "Kansas"
+
+msgid "Katrina's Game"
+msgstr "Jeu de Katrina"
+
+msgid "Katrina's Game Doubled"
+msgstr "Jeu de Katrina Doublé"
+
+msgid "Katrina's Game Relaxed"
+msgstr "Jeu de Katrina Relax"
+
+msgid "Kentish"
+msgstr "Kentish"
+
+msgid "Khadga"
+msgstr "Khadga"
+
+msgid "Khedive"
+msgstr "Khedive"
+
+msgid "King Albert"
+msgstr "Roi Albert"
+
+msgid "King Only Baker's Game"
+msgstr "Jeu du Boulanger Roi Seulement"
+
+msgid "King Only Hex A Klon"
+msgstr "Hex A Klon Roi Seulement"
+
+msgid "King Tut"
+msgstr "Roi Tut"
+
+msgid "KingCell"
+msgstr "KingCell"
+
+msgid "Kingdom"
+msgstr "Kingdom"
+
+msgid "Kings"
+msgstr "Rois"
+
+msgid "Kingsdown Eights"
+msgstr "Kingsdown Eights"
+
+msgid "Kingsley"
+msgstr "Kingsley"
+
+msgid "Klondike"
+msgstr "Klondike"
+
+msgid "Klondike Plus 16"
+msgstr "Klondike plus 16"
+
+msgid "Klondike by Threes"
+msgstr "Klondike par Trois"
+
+msgid "Km"
+msgstr "Km"
+
+msgid "Knotty Nines"
+msgstr "Knotty Nines"
+
+msgid "Krebs"
+msgstr "Krebs"
+
+msgid "Kujaku"
+msgstr "Kujaku"
+
+msgid "Kumo"
+msgstr "Kumo"
+
+msgid "Kurma"
+msgstr "Kurma"
+
+msgid "Kyodai 14"
+msgstr "Kyodai 14"
+
+msgid "Kyodai 17"
+msgstr "Kyodai 17"
+
+msgid "Kyodai 18"
+msgstr "Kyodai 18"
+
+msgid "Kyodai 20"
+msgstr "Kyodai 20"
+
+msgid "Kyodai 23"
+msgstr "Kyodai 23"
+
+msgid "Kyodai 24"
+msgstr "Kyodai 24"
+
+msgid "Kyodai 25"
+msgstr "Kyodai 25"
+
+msgid "Kyodai 26"
+msgstr "Kyodai 26"
+
+msgid "Kyodai 27"
+msgstr "Kyodai 27"
+
+msgid "Kyodai 28"
+msgstr "Kyodai 28"
+
+msgid "Kyodai 41"
+msgstr "Kyodai 41"
+
+msgid "Kyodai 42"
+msgstr "Kyodai 42"
+
+msgid "La Belle Lucie"
+msgstr "La Belle Lucie"
+
+msgid "La Chatelaine"
+msgstr "La Châtelaine"
+
+msgid "La Nivernaise"
+msgstr "La Nivernaise"
+
+msgid "La Parisienne"
+msgstr "La Parisienne"
+
+msgid "Labyrinth"
+msgstr "Labyrinthe"
+
+msgid "Ladies Battle"
+msgstr "Ladies Battle"
+
+msgid "Lady Betty"
+msgstr "Lady Betty"
+
+msgid "Lady Jane"
+msgstr "Lady Jane"
+
+msgid "Lady Palk"
+msgstr "Lady Palk"
+
+msgid "Lady of the Manor"
+msgstr "Lady of the Manor"
+
+msgid "Lafayette"
+msgstr "Lafayette"
+
+msgid "Laggard Lady"
+msgstr "Laggard Lady"
+
+msgid "Lanes"
+msgstr "Lanes"
+
+msgid "Lara's Game"
+msgstr "Jeu de Lara"
+
+msgid "Lara's Game Doubled"
+msgstr "Jeu de Lara Doublé"
+
+msgid "Lara's Game Relaxed"
+msgstr "Jeu de Lara Relax"
+
+msgid "Last Chance"
+msgstr "Dernière Chance"
+
+msgid "Lattice"
+msgstr "Lattice"
+
+msgid "Le Cadran"
+msgstr "Le Cadran"
+
+msgid "Le Grande Teton"
+msgstr "Le Grande Téton"
+
+msgid "Legion"
+msgstr "Légion"
+
+msgid "Leprechaun"
+msgstr "Leprechaun"
+
+msgid "Les Quatre Coins"
+msgstr "Les Quatre Coins"
+
+msgid "Lesser Queue"
+msgstr "Lesser Queue"
+
+msgid "Lexington Harp"
+msgstr "Lexington Harp"
+
+msgid "Lightweight"
+msgstr "Lightweight"
+
+msgid "Lily"
+msgstr "Lily"
+
+msgid "Limited"
+msgstr "Limited"
+
+msgid "Limpopo"
+msgstr "Limpopo"
+
+msgid "Lion"
+msgstr "Lion"
+
+msgid "Little Billie"
+msgstr "Petit Billie"
+
+msgid "Little Easy"
+msgstr "Petit Easy"
+
+msgid "Little Forty"
+msgstr "Petit Quarante"
+
+msgid "Little Gate"
+msgstr "Petit Gate"
+
+msgid "Little Napoleon"
+msgstr "Petit Napoléon"
+
+msgid "Lobachevsky"
+msgstr "Lobachevsky"
+
+msgid "Locked Cards"
+msgstr ""
+
+msgid "Long Braid"
+msgstr ""
+
+msgid "Long Journey to Cuddapah"
+msgstr ""
+
+msgid "Long Tail"
+msgstr ""
+
+msgid "Long Trip"
+msgstr ""
+
+msgid "Loose Ends"
+msgstr ""
+
+msgid "Lost "
+msgstr ""
+
+msgid "Lucas"
+msgstr ""
+
+msgid "Lucky Piles"
+msgstr ""
+
+msgid "Lucky Thirteen"
+msgstr ""
+
+msgid "Madame"
+msgstr ""
+
+msgid "Mage's Game"
+msgstr "Jeu de Mage"
+
+msgid "Mahjongg Altar"
+msgstr ""
+
+msgid "Mahjongg Another Round"
+msgstr ""
+
+msgid "Mahjongg Aqab's"
+msgstr ""
+
+msgid "Mahjongg Arena"
+msgstr ""
+
+msgid "Mahjongg Arena 2"
+msgstr ""
+
+msgid "Mahjongg Arrow"
+msgstr ""
+
+msgid "Mahjongg Art Moderne"
+msgstr ""
+
+msgid "Mahjongg Balance"
+msgstr ""
+
+msgid "Mahjongg Bat"
+msgstr ""
+
+msgid "Mahjongg Beatle"
+msgstr ""
+
+msgid "Mahjongg Big Hole"
+msgstr ""
+
+msgid "Mahjongg Big Mountain"
+msgstr ""
+
+msgid "Mahjongg Bizarre"
+msgstr ""
+
+msgid "Mahjongg Boar"
+msgstr ""
+
+msgid "Mahjongg Boat"
+msgstr ""
+
+msgid "Mahjongg Bridge"
+msgstr ""
+
+msgid "Mahjongg Bridge 2"
+msgstr ""
+
+msgid "Mahjongg Bug"
+msgstr ""
+
+msgid "Mahjongg Butterfly"
+msgstr ""
+
+msgid "Mahjongg Butterfly 2"
+msgstr ""
+
+msgid "Mahjongg Castle"
+msgstr ""
+
+msgid "Mahjongg Cat and Mouse"
+msgstr ""
+
+msgid "Mahjongg Ceremonial"
+msgstr ""
+
+msgid "Mahjongg Checkered"
+msgstr ""
+
+msgid "Mahjongg ChessMania"
+msgstr ""
+
+msgid "Mahjongg Chip"
+msgstr ""
+
+msgid "Mahjongg Columns"
+msgstr ""
+
+msgid "Mahjongg Cross"
+msgstr ""
+
+msgid "Mahjongg Crown"
+msgstr ""
+
+msgid "Mahjongg Cupido's Heart"
+msgstr ""
+
+msgid "Mahjongg Cupola"
+msgstr ""
+
+msgid "Mahjongg Deep Well"
+msgstr ""
+
+msgid "Mahjongg Diamond"
+msgstr ""
+
+msgid "Mahjongg Dog"
+msgstr ""
+
+msgid "Mahjongg Dragon"
+msgstr ""
+
+msgid "Mahjongg Dragon 2"
+msgstr ""
+
+msgid "Mahjongg Dude"
+msgstr ""
+
+msgid "Mahjongg Empty Pyramids"
+msgstr ""
+
+msgid "Mahjongg Enterprise"
+msgstr ""
+
+msgid "Mahjongg Eye"
+msgstr ""
+
+msgid "Mahjongg F-15 Eagle"
+msgstr ""
+
+msgid "Mahjongg Farandole"
+msgstr ""
+
+msgid "Mahjongg Fish"
+msgstr ""
+
+msgid "Mahjongg Fish face"
+msgstr ""
+
+msgid "Mahjongg Five Pyramids"
+msgstr ""
+
+msgid "Mahjongg Floating City"
+msgstr ""
+
+msgid "Mahjongg Flowers"
+msgstr ""
+
+msgid "Mahjongg Flying Dragon"
+msgstr ""
+
+msgid "Mahjongg Fortress Towers"
+msgstr ""
+
+msgid "Mahjongg Full Vision"
+msgstr ""
+
+msgid "Mahjongg Full Vision 2"
+msgstr ""
+
+msgid "Mahjongg Future"
+msgstr ""
+
+msgid "Mahjongg Garden"
+msgstr ""
+
+msgid "Mahjongg Gayle's"
+msgstr ""
+
+msgid "Mahjongg Glade"
+msgstr ""
+
+msgid "Mahjongg H for Haga"
+msgstr ""
+
+msgid "Mahjongg Hare"
+msgstr ""
+
+msgid "Mahjongg Helios"
+msgstr ""
+
+msgid "Mahjongg Hidden Words"
+msgstr ""
+
+msgid "Mahjongg High and Low"
+msgstr ""
+
+msgid "Mahjongg Horse"
+msgstr ""
+
+msgid "Mahjongg Hovercraft"
+msgstr ""
+
+msgid "Mahjongg Hurdles"
+msgstr ""
+
+msgid "Mahjongg IloveU"
+msgstr ""
+
+msgid "Mahjongg Inazuma"
+msgstr ""
+
+msgid "Mahjongg Inca"
+msgstr ""
+
+msgid "Mahjongg Inner Circle"
+msgstr ""
+
+msgid "Mahjongg JPs"
+msgstr ""
+
+msgid "Mahjongg Japan"
+msgstr ""
+
+msgid "Mahjongg Joker"
+msgstr ""
+
+msgid "Mahjongg K for Kyodai"
+msgstr ""
+
+msgid "Mahjongg Km"
+msgstr ""
+
+msgid "Mahjongg Krebs"
+msgstr ""
+
+msgid "Mahjongg Kujaku"
+msgstr ""
+
+msgid "Mahjongg Kumo"
+msgstr ""
+
+msgid "Mahjongg Kyodai 14"
+msgstr ""
+
+msgid "Mahjongg Kyodai 17"
+msgstr ""
+
+msgid "Mahjongg Kyodai 18"
+msgstr ""
+
+msgid "Mahjongg Kyodai 20"
+msgstr ""
+
+msgid "Mahjongg Kyodai 23"
+msgstr ""
+
+msgid "Mahjongg Kyodai 24"
+msgstr ""
+
+msgid "Mahjongg Kyodai 25"
+msgstr ""
+
+msgid "Mahjongg Kyodai 26"
+msgstr ""
+
+msgid "Mahjongg Kyodai 27"
+msgstr ""
+
+msgid "Mahjongg Kyodai 28"
+msgstr ""
+
+msgid "Mahjongg Kyodai 41"
+msgstr ""
+
+msgid "Mahjongg Kyodai 42"
+msgstr ""
+
+msgid "Mahjongg Labyrinth"
+msgstr ""
+
+msgid "Mahjongg Lattice"
+msgstr ""
+
+msgid "Mahjongg Lion"
+msgstr ""
+
+msgid "Mahjongg Loose Ends"
+msgstr ""
+
+msgid "Mahjongg Lost "
+msgstr ""
+
+msgid "Mahjongg Maya"
+msgstr ""
+
+msgid "Mahjongg Mesh"
+msgstr ""
+
+msgid "Mahjongg Mini Traditional"
+msgstr ""
+
+msgid "Mahjongg Mini-Layout"
+msgstr ""
+
+msgid "Mahjongg Mission Impossible"
+msgstr ""
+
+msgid "Mahjongg Monkey"
+msgstr ""
+
+msgid "Mahjongg Moth"
+msgstr ""
+
+msgid "Mahjongg Multi X"
+msgstr ""
+
+msgid "Mahjongg N for Namida"
+msgstr ""
+
+msgid "Mahjongg New Layout"
+msgstr ""
+
+msgid "Mahjongg Okie's Nitemare"
+msgstr ""
+
+msgid "Mahjongg Orbital"
+msgstr ""
+
+msgid "Mahjongg Order"
+msgstr ""
+
+msgid "Mahjongg Owl"
+msgstr ""
+
+msgid "Mahjongg Ox"
+msgstr ""
+
+msgid "Mahjongg Pantheon"
+msgstr ""
+
+msgid "Mahjongg Papillon"
+msgstr ""
+
+msgid "Mahjongg Pattern"
+msgstr ""
+
+msgid "Mahjongg Portal"
+msgstr ""
+
+msgid "Mahjongg Pyramid 1"
+msgstr ""
+
+msgid "Mahjongg Pyramid 2"
+msgstr ""
+
+msgid "Mahjongg Quad"
+msgstr ""
+
+msgid "Mahjongg Ram"
+msgstr ""
+
+msgid "Mahjongg Rat"
+msgstr ""
+
+msgid "Mahjongg Rectangle"
+msgstr ""
+
+msgid "Mahjongg Reindeer"
+msgstr ""
+
+msgid "Mahjongg Rings"
+msgstr ""
+
+msgid "Mahjongg River Bridge"
+msgstr ""
+
+msgid "Mahjongg Rocket"
+msgstr ""
+
+msgid "Mahjongg Roman Arena"
+msgstr ""
+
+msgid "Mahjongg Rooster"
+msgstr ""
+
+msgid "Mahjongg Rugby"
+msgstr ""
+
+msgid "Mahjongg Scorpion"
+msgstr ""
+
+msgid "Mahjongg Screw Up"
+msgstr ""
+
+msgid "Mahjongg Seven"
+msgstr ""
+
+msgid "Mahjongg Seven Pyramids"
+msgstr ""
+
+msgid "Mahjongg Shapeshifter"
+msgstr ""
+
+msgid "Mahjongg Shield"
+msgstr ""
+
+msgid "Mahjongg Siam"
+msgstr ""
+
+msgid "Mahjongg Snake"
+msgstr ""
+
+msgid "Mahjongg Space Bridge"
+msgstr ""
+
+msgid "Mahjongg Space Shuttle"
+msgstr ""
+
+msgid "Mahjongg Square"
+msgstr ""
+
+msgid "Mahjongg Squares"
+msgstr ""
+
+msgid "Mahjongg Squaring"
+msgstr ""
+
+msgid "Mahjongg Stage 1"
+msgstr ""
+
+msgid "Mahjongg Stage 2"
+msgstr ""
+
+msgid "Mahjongg Stairs"
+msgstr ""
+
+msgid "Mahjongg Stairs 2"
+msgstr ""
+
+msgid "Mahjongg Stairs 3"
+msgstr ""
+
+msgid "Mahjongg Star Ship"
+msgstr ""
+
+msgid "Mahjongg Stargate"
+msgstr ""
+
+msgid "Mahjongg Steps Pyramid"
+msgstr ""
+
+msgid "Mahjongg Stonehenge"
+msgstr ""
+
+msgid "Mahjongg Sukis"
+msgstr ""
+
+msgid "Mahjongg SunMoon"
+msgstr ""
+
+msgid "Mahjongg Taipei"
+msgstr ""
+
+msgid "Mahjongg Temple"
+msgstr ""
+
+msgid "Mahjongg Temple 1"
+msgstr ""
+
+msgid "Mahjongg Temple 2"
+msgstr ""
+
+msgid "Mahjongg The Door"
+msgstr ""
+
+msgid "Mahjongg The Great Wall"
+msgstr "Mahjongg La Grande Muraille"
+
+msgid "Mahjongg Theater"
+msgstr ""
+
+msgid "Mahjongg Tiger"
+msgstr ""
+
+msgid "Mahjongg Tile Fighter"
+msgstr ""
+
+msgid "Mahjongg Tilepiles"
+msgstr ""
+
+msgid "Mahjongg Time Tunnel"
+msgstr ""
+
+msgid "Mahjongg Tomb"
+msgstr ""
+
+msgid "Mahjongg Tornado"
+msgstr ""
+
+msgid "Mahjongg Totally Random-Made"
+msgstr ""
+
+msgid "Mahjongg Traditional Reviewed"
+msgstr ""
+
+msgid "Mahjongg Tree of Life"
+msgstr ""
+
+msgid "Mahjongg Trika"
+msgstr ""
+
+msgid "Mahjongg Twin"
+msgstr ""
+
+msgid "Mahjongg Twin Temples"
+msgstr ""
+
+msgid "Mahjongg Two Domes"
+msgstr ""
+
+msgid "Mahjongg Vagues"
+msgstr ""
+
+msgid "Mahjongg Vi"
+msgstr ""
+
+msgid "Mahjongg Victory Arrow"
+msgstr ""
+
+msgid "Mahjongg Wavelets"
+msgstr ""
+
+msgid "Mahjongg Wedges"
+msgstr ""
+
+msgid "Mahjongg Well"
+msgstr ""
+
+msgid "Mahjongg Well2"
+msgstr ""
+
+msgid "Mahjongg Whatever"
+msgstr ""
+
+msgid "Mahjongg Win"
+msgstr ""
+
+msgid "Mahjongg X-Files"
+msgstr ""
+
+msgid "Mahjongg X-Shape"
+msgstr ""
+
+msgid "Mahjongg Yummy"
+msgstr ""
+
+msgid "Maine Coon"
+msgstr ""
+
+msgid "Makara"
+msgstr ""
+
+msgid "Mamy Susan"
+msgstr ""
+
+msgid "Mancunian"
+msgstr ""
+
+msgid "Manx"
+msgstr ""
+
+msgid "Maria"
+msgstr ""
+
+msgid "Maria Luisa"
+msgstr ""
+
+msgid "Marie Rose"
+msgstr ""
+
+msgid "Marshal"
+msgstr ""
+
+msgid "Martha"
+msgstr ""
+
+msgid "Master"
+msgstr ""
+
+msgid "Matriarchy"
+msgstr ""
+
+msgid "Matrimony"
+msgstr ""
+
+msgid "MatsuKiri"
+msgstr ""
+
+msgid "MatsuKiri Strict"
+msgstr ""
+
+msgid "Matsya"
+msgstr ""
+
+msgid "Maya"
+msgstr ""
+
+msgid "Maze"
+msgstr ""
+
+msgid "Measure"
+msgstr ""
+
+msgid "Memory 24"
+msgstr ""
+
+msgid "Memory 30"
+msgstr ""
+
+msgid "Memory 40"
+msgstr ""
+
+msgid "Merlin's Meander"
+msgstr ""
+
+msgid "Mesh"
+msgstr ""
+
+msgid "Methuselah"
+msgstr ""
+
+msgid "Midnight Oil"
+msgstr ""
+
+msgid "Midshipman"
+msgstr ""
+
+msgid "Millie"
+msgstr ""
+
+msgid "Milligan Cell"
+msgstr ""
+
+msgid "Milligan Harp"
+msgstr ""
+
+msgid "Minerva"
+msgstr ""
+
+msgid "Mini Traditional"
+msgstr ""
+
+msgid "Mini-Layout"
+msgstr ""
+
+msgid "Miss Milligan"
+msgstr ""
+
+msgid "Miss Muffet"
+msgstr ""
+
+msgid "Mission Impossible"
+msgstr ""
+
+msgid "Mississippi"
+msgstr ""
+
+msgid "Mod-3"
+msgstr ""
+
+msgid "Monkey"
+msgstr ""
+
+#, fuzzy
+msgid "Montana"
+msgstr "Le Montana"
+
+msgid "Monte Carlo"
+msgstr ""
+
+msgid "Monte Carlo (2 decks)"
+msgstr ""
+
+msgid "Moonlight"
+msgstr ""
+
+msgid "Moosehide"
+msgstr ""
+
+msgid "Morehead"
+msgstr ""
+
+msgid "Moth"
+msgstr ""
+
+msgid "Mount Olympus"
+msgstr ""
+
+msgid "Moving Left"
+msgstr ""
+
+msgid "Mrs. Mop"
+msgstr ""
+
+msgid "Mughal Circles"
+msgstr ""
+
+msgid "Multi X"
+msgstr ""
+
+msgid "Mumbai"
+msgstr ""
+
+msgid "Munger"
+msgstr ""
+
+msgid "Musical Patience"
+msgstr ""
+
+msgid "Mystique"
+msgstr ""
+
+msgid "N for Namida"
+msgstr ""
+
+#, fuzzy
+msgid "Napoleon"
+msgstr "Le Napoléon"
+
+msgid "Napoleon Leaves Moscow"
+msgstr ""
+
+msgid "Napoleon Takes Moscow"
+msgstr ""
+
+msgid "Napoleon at St.Helena"
+msgstr ""
+
+msgid "Napoleon's Exile"
+msgstr ""
+
+msgid "Napoleon's Favorite"
+msgstr ""
+
+msgid "Napoleon's Flank"
+msgstr ""
+
+msgid "Napoleon's Square"
+msgstr ""
+
+msgid "Napoleon's Tomb"
+msgstr ""
+
+msgid "Narasimha"
+msgstr ""
+
+msgid "Narpati"
+msgstr ""
+
+msgid "Nasty"
+msgstr ""
+
+msgid "Nationale"
+msgstr ""
+
+msgid "Needle"
+msgstr ""
+
+msgid "Neighbour"
+msgstr ""
+
+msgid "Nestor"
+msgstr ""
+
+msgid "New British Constitution"
+msgstr ""
+
+msgid "New Layout"
+msgstr ""
+
+msgid "New York"
+msgstr ""
+
+msgid "Nomad"
+msgstr ""
+
+msgid "Nordic"
+msgstr ""
+
+msgid "Northwest Territory"
+msgstr ""
+
+msgid "Not Shisen-Sho 14x6"
+msgstr ""
+
+msgid "Not Shisen-Sho 18x8"
+msgstr ""
+
+msgid "Not Shisen-Sho 24x12"
+msgstr ""
+
+msgid "Number Ten"
+msgstr ""
+
+msgid "Number Twelve"
+msgstr ""
+
+#, fuzzy
+msgid "Numerica"
+msgstr "Numérica"
+
+msgid "Numerica (2 decks)"
+msgstr ""
+
+msgid "Ocean Towers"
+msgstr ""
+
+msgid "Octagon"
+msgstr ""
+
+msgid "Octave"
+msgstr ""
+
+msgid "Odd and Even"
+msgstr ""
+
+msgid "Odessa"
+msgstr ""
+
+msgid "Okie's Nitemare"
+msgstr ""
+
+msgid "Old Mole"
+msgstr ""
+
+msgid "One234"
+msgstr ""
+
+msgid "Oonsoo"
+msgstr ""
+
+msgid "Oonsoo Open"
+msgstr ""
+
+msgid "Oonsoo Strict"
+msgstr ""
+
+msgid "Oonsoo Times Two"
+msgstr ""
+
+msgid "Oonsoo Too"
+msgstr ""
+
+msgid "Open Jumbo"
+msgstr ""
+
+msgid "Open Peek"
+msgstr ""
+
+msgid "Open Sly Fox"
+msgstr ""
+
+msgid "Open Spider"
+msgstr ""
+
+msgid "Opus"
+msgstr ""
+
+msgid "Orbital"
+msgstr ""
+
+msgid "Order"
+msgstr ""
+
+msgid "Osmosis"
+msgstr ""
+
+msgid "Outback Patience"
+msgstr ""
+
+msgid "Owl"
+msgstr ""
+
+msgid "Ox"
+msgstr ""
+
+msgid "Paganini"
+msgstr ""
+
+msgid "Pagat"
+msgstr ""
+
+msgid "Pagoda"
+msgstr ""
+
+msgid "Panopticon"
+msgstr ""
+
+msgid "Pantagruel"
+msgstr ""
+
+msgid "Pantheon"
+msgstr ""
+
+msgid "Papillon"
+msgstr ""
+
+msgid "Parallels"
+msgstr ""
+
+msgid "Parashurama"
+msgstr ""
+
+msgid "Parisian"
+msgstr ""
+
+msgid "Parisienne"
+msgstr ""
+
+msgid "Parliament"
+msgstr ""
+
+msgid "Pas Seul"
+msgstr ""
+
+msgid "Pas de Deux"
+msgstr ""
+
+msgid "Patience"
+msgstr ""
+
+msgid "Patriarchs"
+msgstr ""
+
+msgid "Pattern"
+msgstr ""
+
+#, fuzzy
+msgid "Paulownia"
+msgstr "Paulownia"
+
+msgid "Peek"
+msgstr ""
+
+msgid "Peek II"
+msgstr ""
+
+msgid "Pegged"
+msgstr ""
+
+msgid "Pegged 6x6"
+msgstr ""
+
+msgid "Pegged 7x7"
+msgstr ""
+
+msgid "Pegged Cross 1"
+msgstr ""
+
+msgid "Pegged Cross 2"
+msgstr ""
+
+msgid "Pegged Triangle 1"
+msgstr ""
+
+msgid "Pegged Triangle 2"
+msgstr ""
+
+msgid "Penelope's Web"
+msgstr ""
+
+msgid "Penguin"
+msgstr ""
+
+#, fuzzy
+msgid "Peony"
+msgstr "Pivoine"
+
+msgid "Perpetual Motion"
+msgstr ""
+
+msgid "Perseverance"
+msgstr ""
+
+msgid "Persian Patience"
+msgstr ""
+
+msgid "Phalanx"
+msgstr ""
+
+msgid "Phantom Blockade"
+msgstr ""
+
+msgid "Pharaohs"
+msgstr ""
+
+msgid "Phoenix"
+msgstr ""
+
+msgid "Picture Gallery"
+msgstr ""
+
+msgid "Picture Patience"
+msgstr ""
+
+msgid "Pigtail"
+msgstr ""
+
+msgid "PileOn"
+msgstr ""
+
+#, fuzzy
+msgid "Pine"
+msgstr "Pin"
+
+msgid "Pitchfork"
+msgstr ""
+
+msgid "Plait"
+msgstr ""
+
+msgid "Plus Belle"
+msgstr ""
+
+msgid "Poker Shuffle"
+msgstr ""
+
+msgid "Poker Square"
+msgstr ""
+
+msgid "Ponytail"
+msgstr ""
+
+msgid "Portal"
+msgstr ""
+
+msgid "Portuguese Solitaire"
+msgstr ""
+
+msgid "Primrose"
+msgstr ""
+
+msgid "Princess Patience"
+msgstr ""
+
+#, fuzzy
+msgid "Progression"
+msgstr "Progression"
+
+msgid "Provisions"
+msgstr ""
+
+msgid "Push Pin"
+msgstr ""
+
+msgid "Puss in the Corner"
+msgstr ""
+
+msgid "Putt Putt"
+msgstr ""
+
+msgid "Pyramid"
+msgstr ""
+
+msgid "Pyramid 1"
+msgstr ""
+
+msgid "Pyramid 2"
+msgstr ""
+
+msgid "Pyramid Golf"
+msgstr ""
+
+msgid "Q.C."
+msgstr ""
+
+msgid "Quad"
+msgstr ""
+
+msgid "Quadrangle"
+msgstr ""
+
+msgid "Quadrille"
+msgstr ""
+
+msgid "Quadruple Alliance"
+msgstr ""
+
+msgid "Quads"
+msgstr ""
+
+msgid "Quads +"
+msgstr ""
+
+msgid "Quartets"
+msgstr ""
+
+msgid "Queen Victoria"
+msgstr ""
+
+msgid "Queen of Italy"
+msgstr ""
+
+msgid "Queenie"
+msgstr ""
+
+msgid "Queensland"
+msgstr ""
+
+msgid "Quilt"
+msgstr ""
+
+msgid "Rachel"
+msgstr ""
+
+#, fuzzy
+msgid "Raglan"
+msgstr "Le Raglan"
+
+msgid "Rainbow"
+msgstr ""
+
+msgid "Rainfall"
+msgstr ""
+
+msgid "Ram"
+msgstr ""
+
+msgid "Rambling"
+msgstr ""
+
+msgid "Rangoon"
+msgstr ""
+
+msgid "Rank and File"
+msgstr ""
+
+msgid "Rat"
+msgstr ""
+
+msgid "Raw Prawn"
+msgstr ""
+
+msgid "Realm"
+msgstr ""
+
+#, fuzzy
+msgid "Rectangle"
+msgstr "Rectangle"
+
+msgid "Red Moon"
+msgstr ""
+
+msgid "Red and Black"
+msgstr ""
+
+msgid "Regal Family"
+msgstr ""
+
+msgid "Reindeer"
+msgstr ""
+
+msgid "Relax"
+msgstr ""
+
+msgid "Relaxed Accordion"
+msgstr ""
+
+msgid "Relaxed FreeCell"
+msgstr ""
+
+msgid "Relaxed Golf"
+msgstr ""
+
+msgid "Relaxed Pyramid"
+msgstr ""
+
+msgid "Relaxed Seahaven Towers"
+msgstr ""
+
+msgid "Relaxed Spider"
+msgstr ""
+
+msgid "Relaxed Three Fir-trees"
+msgstr ""
+
+msgid "Repair"
+msgstr ""
+
+#, fuzzy
+msgid "Reserves"
+msgstr "Réserves"
+
+msgid "Retinue"
+msgstr ""
+
+msgid "Right Triangle"
+msgstr ""
+
+msgid "Right and Left"
+msgstr ""
+
+msgid "Rings"
+msgstr ""
+
+msgid "Ripple Fan"
+msgstr ""
+
+msgid "Rittenhouse"
+msgstr ""
+
+msgid "River Bridge"
+msgstr ""
+
+msgid "Robert"
+msgstr ""
+
+msgid "Robin"
+msgstr ""
+
+msgid "Rocket"
+msgstr ""
+
+msgid "Roman Arena"
+msgstr ""
+
+msgid "Roosevelt"
+msgstr ""
+
+msgid "Roost"
+msgstr ""
+
+msgid "Rooster"
+msgstr ""
+
+msgid "Roslin"
+msgstr ""
+
+msgid "Rouge et Noir"
+msgstr ""
+
+msgid "Rows of Four"
+msgstr ""
+
+msgid "Royal Aids"
+msgstr ""
+
+msgid "Royal Cotillion"
+msgstr ""
+
+msgid "Royal East"
+msgstr ""
+
+msgid "Royal Family"
+msgstr ""
+
+msgid "Royal Marriage"
+msgstr ""
+
+msgid "Royal Parade"
+msgstr ""
+
+msgid "Royal Rendezvous"
+msgstr ""
+
+msgid "Rugby"
+msgstr ""
+
+msgid "Rushdike"
+msgstr ""
+
+msgid "Russian Aces"
+msgstr ""
+
+msgid "Russian Patience"
+msgstr ""
+
+msgid "Russian Point"
+msgstr ""
+
+msgid "Russian Solitaire"
+msgstr ""
+
+msgid "Russian Spider"
+msgstr ""
+
+msgid "S Patience"
+msgstr ""
+
+msgid "Salic Law"
+msgstr ""
+
+msgid "Samuri"
+msgstr ""
+
+msgid "San Juan Hill"
+msgstr ""
+
+msgid "Sanibel"
+msgstr ""
+
+msgid "Saratoga"
+msgstr ""
+
+msgid "Saxony"
+msgstr ""
+
+msgid "Scarab"
+msgstr ""
+
+msgid "Scarp"
+msgstr ""
+
+msgid "Scheidungsgrund"
+msgstr ""
+
+msgid "School"
+msgstr ""
+
+msgid "Scorpion"
+msgstr ""
+
+msgid "Scorpion Head"
+msgstr ""
+
+msgid "Scorpion II"
+msgstr ""
+
+msgid "Scorpion Tail"
+msgstr ""
+
+msgid "Scotch Patience"
+msgstr ""
+
+msgid "Screw Up"
+msgstr ""
+
+msgid "Scuffle"
+msgstr ""
+
+msgid "Sea Towers"
+msgstr ""
+
+msgid "Seahaven Towers"
+msgstr ""
+
+msgid "Selective Castle"
+msgstr ""
+
+msgid "Senate"
+msgstr ""
+
+msgid "Senate +"
+msgstr ""
+
+msgid "Senior Wrangler"
+msgstr ""
+
+msgid "Serpent"
+msgstr ""
+
+msgid "Seven"
+msgstr ""
+
+msgid "Seven Devils"
+msgstr ""
+
+msgid "Seven Pyramids"
+msgstr ""
+
+msgid "Seven by Five"
+msgstr ""
+
+msgid "Seven by Four"
+msgstr ""
+
+msgid "Shady Lanes"
+msgstr ""
+
+msgid "Shamrocks"
+msgstr ""
+
+msgid "Shamrocks II"
+msgstr ""
+
+msgid "Shamsher"
+msgstr ""
+
+msgid "Shanka"
+msgstr ""
+
+msgid "Shapeshifter"
+msgstr ""
+
+msgid "Shield"
+msgstr ""
+
+msgid "Shifting"
+msgstr ""
+
+msgid "Shisen-Sho (No Gravity) 14x6"
+msgstr ""
+
+msgid "Shisen-Sho (No Gravity) 18x8"
+msgstr ""
+
+msgid "Shisen-Sho (No Gravity) 24x12"
+msgstr ""
+
+msgid "Shisen-Sho 14x6"
+msgstr ""
+
+msgid "Shisen-Sho 18x8"
+msgstr ""
+
+msgid "Shisen-Sho 24x12"
+msgstr ""
+
+msgid "Short Tail"
+msgstr ""
+
+msgid "Siam"
+msgstr ""
+
+msgid "Sieben bis As"
+msgstr ""
+
+msgid "Signora"
+msgstr ""
+
+msgid "Simon Jester"
+msgstr ""
+
+msgid "Simple Carlo"
+msgstr ""
+
+msgid "Simple Pairs"
+msgstr ""
+
+msgid "Simple Simon"
+msgstr ""
+
+msgid "Simplex"
+msgstr ""
+
+msgid "Simplicity"
+msgstr ""
+
+msgid "Single Rail"
+msgstr ""
+
+msgid "Sir Tommy"
+msgstr ""
+
+msgid "Six Sages"
+msgstr ""
+
+msgid "Six Tengus"
+msgstr ""
+
+msgid "Sixes and Sevens"
+msgstr ""
+
+msgid "Skippy"
+msgstr ""
+
+msgid "Skiz"
+msgstr ""
+
+msgid "Sly Fox"
+msgstr ""
+
+msgid "Small Harp"
+msgstr ""
+
+msgid "Small PileOn"
+msgstr ""
+
+msgid "Smile"
+msgstr ""
+
+msgid "Snake"
+msgstr ""
+
+msgid "Snakestone"
+msgstr ""
+
+msgid "Solid Square"
+msgstr ""
+
+msgid "Solstice"
+msgstr ""
+
+msgid "Somerset"
+msgstr ""
+
+msgid "Soother"
+msgstr ""
+
+msgid "Souter"
+msgstr ""
+
+msgid "Space Bridge"
+msgstr ""
+
+msgid "Space Shuttle"
+msgstr ""
+
+msgid "Spaces"
+msgstr ""
+
+msgid "Spaces and Aces"
+msgstr ""
+
+msgid "Spanish Patience"
+msgstr ""
+
+msgid "Spanish Patience II"
+msgstr ""
+
+msgid "Sphere"
+msgstr ""
+
+msgid "Spider"
+msgstr "L'Araignée"
+
+msgid "Spider (1 suit)"
+msgstr "L'Araignée (1 suite)"
+
+msgid "Spider (2 suits)"
+msgstr "L'Araignée (2 suite)"
+
+msgid "Spider (4 decks)"
+msgstr "L'Araignée (4 paquets)"
+
+msgid "Spider 3x3"
+msgstr "L'Araignée 3x3"
+
+msgid "Spider Web"
+msgstr "La Toile d'Araignée"
+
+msgid "Spidercells"
+msgstr "Les Cellules d'Araignée"
+
+msgid "Spiderette"
+msgstr "La Petite Araignée"
+
+msgid "Spidike"
+msgstr "L'Araignée/Klondike (Spidike)"
+
+msgid "Spike"
+msgstr ""
+
+msgid "Spoilt"
+msgstr ""
+
+msgid "Squadron"
+msgstr ""
+
+msgid "Square"
+msgstr ""
+
+msgid "Squares"
+msgstr ""
+
+msgid "Squaring"
+msgstr ""
+
+msgid "St. Helena"
+msgstr ""
+
+msgid "Stage 1"
+msgstr ""
+
+msgid "Stage 2"
+msgstr ""
+
+msgid "Stairs"
+msgstr ""
+
+msgid "Stairs 2"
+msgstr ""
+
+msgid "Stairs 3"
+msgstr ""
+
+msgid "Stalactites"
+msgstr ""
+
+msgid "Star Ship"
+msgstr ""
+
+msgid "Stargate"
+msgstr ""
+
+msgid "Step-Up"
+msgstr ""
+
+msgid "Steps"
+msgstr ""
+
+msgid "Steps Pyramid"
+msgstr ""
+
+msgid "Steve"
+msgstr ""
+
+msgid "Stonehenge"
+msgstr ""
+
+msgid "Stonewall"
+msgstr ""
+
+msgid "Storehouse"
+msgstr ""
+
+msgid "Straight Up"
+msgstr ""
+
+msgid "Strata"
+msgstr ""
+
+msgid "Strategerie"
+msgstr ""
+
+msgid "Strategy"
+msgstr ""
+
+msgid "Strategy +"
+msgstr ""
+
+msgid "Streets"
+msgstr ""
+
+msgid "Streets and Alleys"
+msgstr ""
+
+msgid "Striptease"
+msgstr ""
+
+msgid "Stronghold"
+msgstr ""
+
+msgid "Suit Elevens"
+msgstr ""
+
+msgid "Sukis"
+msgstr ""
+
+msgid "Sultan"
+msgstr ""
+
+msgid "Sultan +"
+msgstr ""
+
+msgid "Sultan of Turkey"
+msgstr ""
+
+msgid "Sumo"
+msgstr ""
+
+msgid "SunMoon"
+msgstr ""
+
+msgid "Super Challenge FreeCell"
+msgstr ""
+
+msgid "Super Flower Garden"
+msgstr ""
+
+msgid "Super Samuri"
+msgstr ""
+
+msgid "Superior Canfield"
+msgstr ""
+
+msgid "Surprise"
+msgstr ""
+
+msgid "Surukh"
+msgstr ""
+
+msgid "Sweet Sixteen"
+msgstr ""
+
+msgid "Tabby Cat"
+msgstr ""
+
+msgid "Taipei"
+msgstr ""
+
+msgid "Take Away"
+msgstr ""
+
+msgid "Tam O'Shanter"
+msgstr ""
+
+msgid "Tarantula"
+msgstr ""
+
+msgid "Temple"
+msgstr ""
+
+msgid "Temple 1"
+msgstr ""
+
+msgid "Temple 2"
+msgstr ""
+
+msgid "Ten Across"
+msgstr ""
+
+msgid "Ten Avatars"
+msgstr ""
+
+msgid "Ten by One"
+msgstr ""
+
+#, fuzzy
+msgid "Terrace"
+msgstr "La Terrasse"
+
+msgid "The Bouquet"
+msgstr ""
+
+msgid "The Door"
+msgstr ""
+
+msgid "The Familiar"
+msgstr ""
+
+msgid "The Four Continents"
+msgstr ""
+
+msgid "The Garden"
+msgstr ""
+
+msgid "The Great Wall"
+msgstr "La Grande Muraille"
+
+msgid "The Jolly Roger"
+msgstr ""
+
+msgid "The Last Monarch"
+msgstr ""
+
+msgid "The Last Monarch II"
+msgstr ""
+
+msgid "The Little Corporal"
+msgstr ""
+
+msgid "The Red and the Black"
+msgstr ""
+
+msgid "The Spark"
+msgstr ""
+
+msgid "The Wish"
+msgstr ""
+
+msgid "The Wish (open)"
+msgstr ""
+
+msgid "Theater"
+msgstr ""
+
+msgid "Thieves of Egypt"
+msgstr ""
+
+msgid "Thirteen Packs"
+msgstr ""
+
+msgid "Thirteen Up"
+msgstr ""
+
+msgid "Thirteens"
+msgstr ""
+
+msgid "Thirty"
+msgstr ""
+
+msgid "Thirty Six"
+msgstr ""
+
+msgid "Thirty Two Cards"
+msgstr ""
+
+msgid "Three Blind Mice"
+msgstr ""
+
+msgid "Three Fir-trees"
+msgstr ""
+
+msgid "Three Peaks"
+msgstr ""
+
+msgid "Three Peaks Non-scoring"
+msgstr ""
+
+msgid "Three Pirates"
+msgstr ""
+
+msgid "Three Shuffles and a Draw"
+msgstr ""
+
+msgid "Thumb and Pouch"
+msgstr ""
+
+msgid "Tiger"
+msgstr ""
+
+msgid "Tile Fighter"
+msgstr ""
+
+msgid "Tilepiles"
+msgstr ""
+
+msgid "Time Tunnel"
+msgstr ""
+
+msgid "Tipati"
+msgstr ""
+
+msgid "Toad"
+msgstr ""
+
+msgid "Tomb"
+msgstr ""
+
+msgid "Toni"
+msgstr ""
+
+msgid "Topsy-Turvy Queens"
+msgstr ""
+
+msgid "Tornado"
+msgstr ""
+
+msgid "Totally Random-Made"
+msgstr ""
+
+msgid "Tournament"
+msgstr ""
+
+msgid "Tower of Babel"
+msgstr ""
+
+msgid "Tower of Hanoy"
+msgstr ""
+
+msgid "Towers"
+msgstr ""
+
+msgid "Traditional Reviewed"
+msgstr ""
+
+msgid "Trapdoor"
+msgstr ""
+
+msgid "Trapdoor Spider"
+msgstr ""
+
+msgid "Travellers"
+msgstr ""
+
+msgid "Treasure Trove"
+msgstr ""
+
+msgid "Tree of Life"
+msgstr ""
+
+msgid "Trefoil"
+msgstr ""
+
+msgid "Tri Peaks"
+msgstr ""
+
+#, fuzzy
+msgid "Triangle"
+msgstr "Triangle"
+
+msgid "Trika"
+msgstr ""
+
+msgid "Trillium"
+msgstr ""
+
+msgid "Triple Alliance"
+msgstr ""
+
+msgid "Triple Canfield"
+msgstr ""
+
+msgid "Triple Easthaven"
+msgstr ""
+
+msgid "Triple FreeCell"
+msgstr ""
+
+msgid "Triple Interchange"
+msgstr ""
+
+msgid "Triple Klondike"
+msgstr ""
+
+msgid "Triple Klondike by Threes"
+msgstr ""
+
+msgid "Triple Line"
+msgstr ""
+
+msgid "Triple Russian Solitaire"
+msgstr ""
+
+msgid "Triple Scorpion"
+msgstr ""
+
+msgid "Triple Yukon"
+msgstr ""
+
+msgid "Troika"
+msgstr ""
+
+msgid "Trusty Twelve"
+msgstr ""
+
+msgid "Turncoats"
+msgstr ""
+
+msgid "Tuxedo"
+msgstr ""
+
+msgid "Twelve Sleeping Maids"
+msgstr ""
+
+msgid "Twenty"
+msgstr ""
+
+msgid "Twilight Zone"
+msgstr ""
+
+msgid "Twin"
+msgstr ""
+
+msgid "Twin Picks"
+msgstr ""
+
+msgid "Twin Queens"
+msgstr ""
+
+msgid "Twin Temples"
+msgstr ""
+
+msgid "Two Domes"
+msgstr ""
+
+msgid "Two Familiars"
+msgstr ""
+
+msgid "Two Pyramids"
+msgstr ""
+
+msgid "Two Rings"
+msgstr ""
+
+msgid "Two Squares"
+msgstr ""
+
+msgid "Ukrainian Solitaire"
+msgstr ""
+
+msgid "Union Square"
+msgstr ""
+
+msgid "Unlimited"
+msgstr ""
+
+msgid "Up and Down"
+msgstr ""
+
+msgid "Usk"
+msgstr ""
+
+msgid "Vague"
+msgstr ""
+
+msgid "Vagues"
+msgstr ""
+
+msgid "Vajra"
+msgstr ""
+
+msgid "Vamana"
+msgstr ""
+
+msgid "Vanishing Cross"
+msgstr ""
+
+msgid "Varaha"
+msgstr ""
+
+msgid "Variegated Canfield"
+msgstr ""
+
+msgid "Vassal"
+msgstr ""
+
+msgid "Vegas Klondike"
+msgstr ""
+
+msgid "Vertical"
+msgstr ""
+
+msgid "Very Big Divorce"
+msgstr ""
+
+msgid "Vi"
+msgstr ""
+
+msgid "Victory Arrow"
+msgstr ""
+
+msgid "Virginia Reel"
+msgstr ""
+
+msgid "Voracious"
+msgstr ""
+
+msgid "Wake-Robin"
+msgstr ""
+
+msgid "Wake-Robin (3 decks)"
+msgstr ""
+
+msgid "Wall"
+msgstr "Muraille"
+
+msgid "Waning Moon"
+msgstr ""
+
+msgid "Wasatch"
+msgstr ""
+
+msgid "Washington's Favorite"
+msgstr ""
+
+msgid "Wasp"
+msgstr ""
+
+msgid "Waterfall"
+msgstr ""
+
+msgid "Waterloo"
+msgstr ""
+
+msgid "Wave"
+msgstr ""
+
+msgid "Wave Motion"
+msgstr ""
+
+msgid "Wavelets"
+msgstr ""
+
+msgid "Weddings"
+msgstr ""
+
+msgid "Wedges"
+msgstr ""
+
+msgid "Well"
+msgstr ""
+
+msgid "Well2"
+msgstr ""
+
+msgid "Westcliff"
+msgstr ""
+
+msgid "Westhaven"
+msgstr ""
+
+msgid "Whatever"
+msgstr ""
+
+msgid "Wheatsheaf"
+msgstr ""
+
+msgid "Wheel of Fortune"
+msgstr ""
+
+msgid "Whitehead"
+msgstr ""
+
+msgid "Whitehorse"
+msgstr ""
+
+msgid "Wicked"
+msgstr ""
+
+msgid "Will o' the Wisp"
+msgstr ""
+
+msgid "Win"
+msgstr ""
+
+msgid "Windmill"
+msgstr ""
+
+#, fuzzy
+msgid "Wisteria"
+msgstr "Glycine"
+
+msgid "Wood"
+msgstr ""
+
+msgid "X-Files"
+msgstr ""
+
+msgid "X-Shape"
+msgstr ""
+
+msgid "York"
+msgstr ""
+
+#, fuzzy
+msgid "Yukon"
+msgstr "Le Yukon"
+
+msgid "Yummy"
+msgstr ""
+
+msgid "Zebra"
+msgstr ""
+
+msgid "Zerline"
+msgstr ""
+
+msgid "Zerline (3 decks)"
+msgstr ""
+
+msgid "Zeus"
+msgstr ""
+
+msgid "Zigzag Course"
+msgstr ""
+
+msgid "Zodiac"
+msgstr ""
